@@ -10,7 +10,6 @@ public class InputOutput {
      * Constructs an InputOutput object with a Scanner object initialized with System.in.
      */
     Scanner input = new Scanner(System.in);
-
     /**
      * Prints the given string to the standard output stream.
      * @param s the string to be printed
