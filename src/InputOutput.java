@@ -4,7 +4,6 @@
  * Date: 2024-02-08
  */
 import java.util.Scanner;
-
 public class InputOutput {
     /**
      * Constructs an InputOutput object with a Scanner object initialized with System.in.

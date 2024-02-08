@@ -3,7 +3,6 @@
  * Author: Robert Tronhage, robert.tronhage@iths.se
  * Date: 2024-02-08
  */
-
 public class PalindromeChecker {
     /**
      * Checks if the given word is a palindrome.

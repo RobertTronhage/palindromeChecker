@@ -13,7 +13,6 @@ public class Main {
      *
      * @param args command-line arguments (not used)
      */
-
     public static void main(String[] args) {
         InputOutput io = new InputOutput();
         PalindromeChecker PC = new PalindromeChecker();
